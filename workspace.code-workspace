@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\JEEVAN KOVAI"
+		},
+		{
+			"path": "images"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "jejo tech"
+	}
+}
